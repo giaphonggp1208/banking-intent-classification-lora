@@ -1,0 +1,7 @@
+{
+    "model": "TF-IDF + MLP",
+    "test_loss": 0.4255640566542551,
+    "test_accuracy": 0.8850649350649351,
+    "test_macro_f1": 0.8854762604579945,
+    "test_weighted_f1": 0.8854762604579944
+}
