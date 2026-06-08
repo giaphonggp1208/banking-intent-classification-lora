@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+env/
+venv/
+
+# Model outputs
+models/
+checkpoints/
+outputs/
+wandb/
+runs/
+*.bin
+*.pt
+*.pth
+*.safetensors
+
+# Cache
+.cache/
+huggingface/
+transformers_cache/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Secrets
+.env
+*.key
+banking_classification_BERT_solution.ipynb
